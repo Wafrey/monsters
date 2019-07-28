@@ -3,8 +3,11 @@
     border: none;
     outline: none;
     padding: 10px;
-    width: 150px;
+    width: 350px;
     line-height: 30px;
     margin-bottom: 30px;
+    text-align: center;
+    font-size: 22px;
+    border: 1.5px solid rgb(31, 29, 29);
   }
   

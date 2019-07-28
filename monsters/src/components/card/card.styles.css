@@ -2,8 +2,8 @@
     display: flex;
     flex-direction: column;
     color: white;
-    background-color: #4d8888;
-    border: 1px solid grey;
+    background-color: #448181;
+    border: 1.5px solid rgb(31, 29, 29);
     border-radius: 5px;
     padding: 25px;
     cursor: pointer;
